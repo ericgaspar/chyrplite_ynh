@@ -12,7 +12,7 @@ maintainers = ["johndoe"]
 [upstream]
 license = "BSD-3-Clause"
 website = "https://chyrplite.net/"
-admindoc = "https://yunohost.org/packaging_apps"
+admindoc = "https://chyrplite.net/wiki/"
 code = "https://github.com/xenocrat/chyrp-lite"
 
 [integration]
